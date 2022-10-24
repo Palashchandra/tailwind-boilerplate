@@ -1,0 +1,22 @@
+
+
+p {
+    @apply font-secondary text-description;
+}
+
+a,
+button {
+    -webkit-transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+h1,
+h2,
+h4,
+h5,
+h6,
+p,
+span,
+a {
+    @apply font-primary text-title;
+}

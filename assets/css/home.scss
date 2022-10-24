@@ -1,0 +1,94 @@
+
+.cre_banner_section_inner {
+    min-height: 750px;
+    padding: 239px 0;
+}
+
+.banner_inner_content{
+    .description {
+        margin-top: 20px;
+    }
+}
+
+// .cre_banner_section_inner{
+//     .title, .description, .banner_search_form, .banner_img img  {
+//         opacity: 0;
+//         visibility: hidden;
+//     }
+// }
+
+// .swiper-slide.swiper-slide-active {
+//     .title, .description, .banner_search_form, .banner_img img {
+//         opacity: 1;
+//         visibility: visible;
+//     }
+//     .title {
+//         animation: fadeInUp 0.3s both 0.5s;
+//     }
+//     .description {
+//         animation: fadeInUp 0.4s both 0.6s;
+//     }
+//     .banner_search_form {
+//         animation: fadeInUp 0.5s both 0.7s;
+//     }
+//     .banner_img img {
+//         animation: fadeInUp 0.7s both .9s;
+//     }
+// }
+
+// @media #{$mobile} {
+//     .banner_img img {
+//         max-width: 250px !important;
+//         margin-bottom: 40px;
+//     }
+//     .banner_inner_content {
+//         text-align: center;
+//     }
+//     .banner_img {
+//         text-align: center;
+//     }
+// }
+
+// @media #{$tab_device} {
+//     .banner_img img {
+//         max-width: 413px !important;
+//     }
+// }
+
+// @media #{$medium_device} {
+//     .banner_img {
+//         right: 51px;
+//     }
+
+//     .banner_img img {
+//         max-width: 389px;
+//     }
+
+//     .cre_text_box_wrapper {
+//         padding: 59px;
+//         max-width: initial;
+//         min-height: 442px;
+//     }
+
+//     .blog_page_widget .nav-pills li.nav-item:not(:last-child) {
+//         margin-right: 69px;
+//     }
+// }
+
+// @media #{$big_screen} {
+//     .cre_header_part .lang_option {
+//         margin-right: 15px;
+//     }
+
+//     .cre_header_part .main_logo {
+//         max-width: 160px;
+//     }
+
+//     .banner_img img.banner_img_content.img-fluid {
+//         max-width: 637px;
+//     }
+
+//     .banner_img {
+//         right: 25px;
+//     }
+// }
